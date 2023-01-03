@@ -3,6 +3,7 @@
 [----Purpose----]
 
 This is a program that provides conversion of an image into a .txt comprising of ascii characters based on the grey scale pixels of that iamge file.
+The length and width of the .txt file will be based on the length and width of the image being used.
 
 [----Reason----]
 
@@ -11,6 +12,7 @@ I want to mess with files and GUI more in C#. Also, I want to let some people me
 [---Misc.---]
 
 Note: If there are any bugs/issue please let me know.
+There is a image size limit of 4096x4096.
 
 
 
